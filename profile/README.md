@@ -9,7 +9,7 @@ To get started, visit our website (insert link here) and sign up for an account.
 
 Have questions or need assistance with your booking? Reach out to us:
 
-- Email: support@motoflexrent.com
+- Email: contact@motoflexrent.com
 - Phone: +33
 - Website: [www.motoflexrent.com](http://www.motoflexrent.com)
 
